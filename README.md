@@ -16,6 +16,7 @@ Contents
 
 - [Courses](#courses)
 - [Stable Difussion](#stable-diffusion)
+- [PyTorch Docker Image](#pytorch-docker-image)
 
 ## Courses
 > Are you ready to dive into a world of knowledge and discovery? The Courses folder is an intellectual sanctuary where my educational journey unfolds. Overflowing with insights gained from diverse sources like prestigious universities and renowned platforms like Coursera, it encapsulates my tireless pursuit of wisdom.
@@ -38,3 +39,9 @@ I've been taking some courses in the University, in Coursera, etc and I put all 
 
 [Stable Diffusion](https://github.com/caroaguilar/ai-learning/tree/main/stable-diffusion)
 I've been playing around with StableDiffusion, I have a local installation in my home server using a docker container for Automatic 111. So this folder contains my notes and learnings on this journey of generative AIs.
+
+
+## PyTorch Docker Image
+As I've been taking courses that require a PyTorch dev environment, I created a Docker Image which is published in the Docker Hub under [kuralabs/pytorch-dev](https://hub.docker.com/r/kuralabs/pytorch-dev). You can find more details in the README of its [GitHub repo](https://github.com/kuralabs/docker-pytorch-dev) and in the [Docker Hub repo](https://hub.docker.com/r/kuralabs/pytorch-dev).
+
+This is the image I use in my PyTorch courses. If you want an example on how to use it, see the [run.sh][https://github.com/caroaguilar/ai-learning/blob/main/courses/pytorch-basics/run.sh] script in the courses sub-folders.
