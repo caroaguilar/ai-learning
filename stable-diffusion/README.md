@@ -17,10 +17,8 @@ How to Make your own inpainting model
 
 Favorite Extensions
 -------------------
-[openOutpaint-webUI-extension ](https://github.com/zero01101/openOutpaint-webUI-extension)
-[openpose-editor](https://github.com/fkunn1326/openpose-editor)
-[posex](https://github.com/hnmr293/posex)
-[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
-[sd-webui-openpose-editor ](https://github.com/huchenlei/sd-webui-openpose-editor)
-[sd-webui-regional-prompter ](https://github.com/hako-mikan/sd-webui-regional-prompter)
-[stable-diffusion-webui-images-browser](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
+- Outpainting [openOutpaint-webUI-extension](https://github.com/zero01101/openOutpaint-webUI-extension)
+- OpenPose [openpose-editor](https://github.com/fkunn1326/openpose-editor)
+- ControlNet [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
+- RegionalPrompter [sd-webui-regional-prompter ](https://github.com/hako-mikan/sd-webui-regional-prompter)
+- Images Browser [stable-diffusion-webui-images-browser](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)
