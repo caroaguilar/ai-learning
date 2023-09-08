@@ -44,4 +44,4 @@ I've been playing around with StableDiffusion, I have a local installation in my
 ## PyTorch Docker Image
 As I've been taking courses that require a PyTorch dev environment, I created a Docker Image which is published in the Docker Hub under [kuralabs/pytorch-dev](https://hub.docker.com/r/kuralabs/pytorch-dev). You can find more details in the README of its [GitHub repo](https://github.com/kuralabs/docker-pytorch-dev) and in the [Docker Hub repo](https://hub.docker.com/r/kuralabs/pytorch-dev).
 
-This is the image I use in my PyTorch courses. If you want an example on how to use it, see the [run.sh][https://github.com/caroaguilar/ai-learning/blob/main/courses/pytorch-basics/run.sh] script in the courses sub-folders.
+This is the image I use in my PyTorch courses. If you want an example on how to use it, see the [run.sh](https://github.com/caroaguilar/ai-learning/blob/main/courses/pytorch-basics/run.sh) script in the courses sub-folders.
